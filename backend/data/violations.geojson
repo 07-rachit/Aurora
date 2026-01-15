@@ -1,0 +1,13 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[78,23],[78.2,23],[78.2,23.2],[78,23.2],[78,23]]]
+      },
+      "properties": { "type": "violation" }
+    }
+  ]
+}
